@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+* {
+    color: #333
+}
+
+h1,h2 {
+    color: darksalmon;
+    font-family: 'Ostrich', cursive;
+}
+

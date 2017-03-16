@@ -1,10 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,500,900');
+;
 * {
     color: #333
 }
 
-h1,h2 {
-    color: darksalmon;
-    font-family: 'Ostrich', cursive;
+h1,
+h2 {
+    color: #208390;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+    text-align: center;
+    text-shadow: 1pt 3pt 0pt #d9d9d9;
 }
 
+.AAA {
+    text-decoration: none;
+    padding: 20px 40px;
+    background-color: aquamarine
+}
+
+.AAA:hover {
+    background-color: rgb(32, 27, 173)
+}
